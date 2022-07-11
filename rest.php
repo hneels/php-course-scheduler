@@ -1,7 +1,7 @@
 <?php
 
 /*
-Hope Asher
+Hope Neels
 cs602 Assignment 6
 */
 
